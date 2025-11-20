@@ -167,7 +167,7 @@ export default function Page() {
 
         <br /><br />
 
-        <h2 className="text-xl mt-6">Fraction 1 Filters</h2>
+        <h2 className="text-2xl mt-6">Fraction 1 Filters</h2>
 
         <label>
           f1_num_digits:
@@ -231,7 +231,7 @@ export default function Page() {
 
         <br /><br />
 
-        <h2 className="text-xl mt-6">Fraction 2 Filters</h2>
+        <h2 className="text-2xl mt-6">Fraction 2 Filters</h2>
 
         <label>
           f2_num_digits:
@@ -324,7 +324,7 @@ export default function Page() {
       </button>
 
 
-      <pre className="mt-6">{JSON.stringify(filters, null, 2)}</pre>
+      {/* <pre className="mt-6">{JSON.stringify(filters, null, 2)}</pre> */}
     </div>
   );
 }
