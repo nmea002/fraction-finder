@@ -1,4 +1,4 @@
-Fraction Stimuli Finder
+# Fraction Stimuli Finder
 
 This tool helps educational researchers quickly filter and export fraction pair stimuli used in past studies. I built this based on the needs of my research professor, who regularly had to identify stimuli that already been used and look for patterns in those stimuli such as unit fractions, misleading pairs, or benchmark values.
 
