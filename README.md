@@ -39,7 +39,8 @@ Then I designed a user interface (UI) where a user can select filters for their 
 
 ## Future Work
 1. Build an LLM-powered chatbot that turns natural language queries into filters for selecting fraction stimuli.
-2. Deploy the website.
+2. Improve front-end.
+3. Deploy the website.
 
 ## References 
 DeWolf et al. (2016) [Neural representations of magnitude for natural and rational numbers](https://www.sciencedirect.com/science/article/pii/S1053811916303664?via%3Dihub)
