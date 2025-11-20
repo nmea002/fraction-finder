@@ -4,6 +4,7 @@ This tool helps educational researchers quickly filter and export fraction pair 
 
 ## Table of Contents
 - [Approach](#approach)
+- [Demo Video](#demo-video)
 - [Future Work](#future-work)
 - [References](#references)
   
@@ -35,7 +36,10 @@ Here are the attriubutes:
 - Numerator distance (Fraction 1 numerator - Fraction 2 numerator)
 - Denominator distance (Fraction 1 denominator - Fraction 2 denominator)
 
-Then I designed a user interface (UI) where a user can select filters for their fractions according to the above attributes. After the user selects their filters in the UI, the app takes those values and generates a SQL query to fetch the fraction pairs that fit the criteria. Finally, the app generates a CSV where you can download all the fraction pairs and use it for your studies. 
+Then I designed a user interface (UI) where a user can select filters for their fractions according to the above attributes. After the user selects their filters in the UI, the app takes those values and generates a SQL query to fetch the fraction pairs that fit the criteria. Finally, the app generates a CSV where you can download all the fraction pairs and use it for your studies.
+
+## Demo Video
+[Download Here](https://github.com/nmea002/fraction-finder/releases/tag/video/ff_demo.mp4)
 
 ## Future Work
 1. Build an LLM-powered chatbot that turns natural language queries into filters for selecting fraction stimuli.
